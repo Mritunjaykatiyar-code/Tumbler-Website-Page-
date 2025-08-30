@@ -1,0 +1,9 @@
+.nav{
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    
+}
+
+
